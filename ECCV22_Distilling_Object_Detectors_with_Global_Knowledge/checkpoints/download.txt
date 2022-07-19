@@ -1,0 +1,3 @@
+Download the coco pretrained models on the COCO dataset from the ModelZoo of the MMDetection, and put them in this directory.
+
+These pretrained models will also be uploaded when the paper is public.

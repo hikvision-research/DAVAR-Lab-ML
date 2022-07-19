@@ -1,0 +1,3 @@
+Download the coco dataset annotations: instance_train2017.json and instances_val2017.json and put them in this directory.
+
+These annotation files will also be uploaded when the paper is public.
